@@ -1,6 +1,7 @@
 # Spotify-clone
 Welcome to my Spotify Clone project! This repository houses my attempt to recreate the iconic look and feel of Spotify
-![Spotify clone]
+![Spotify clone]<img width="1905" height="917" alt="Spotify" src="https://github.com/user-attachments/assets/6b482536-5f7d-4db2-930e-b9fdea9b33e8" />
+
 
 # Spotify Clone with HTML & CSS
 Focusing purely on the front-end aspect using HTML and CSS. This project aims to mirror the visual aspects of Spotify's web version, capturing its essence and functionality through static web pages.
